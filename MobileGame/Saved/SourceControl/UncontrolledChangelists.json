@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"R:/mobileGame/MobileGame/Content/Blueprints/PC_PuzzlePlayerController.uasset"
+				"R:/mobileGame/MobileGame/Content/Blueprints/PC_PuzzlePlayerController.uasset",
+				"R:/mobileGame/MobileGame/Content/Blueprints/CameraVolume.uasset",
+				"R:/mobileGame/MobileGame/Content/Maps/Level_01.umap"
 			]
 		}
 	]
